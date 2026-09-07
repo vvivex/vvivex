@@ -7,7 +7,7 @@ Software, Game & Web Developer.
 I've been coding for 6+ years! I first started off learning scratch, html and css. Over the years I have grown quite a big collection of coding knowledge across many different coding languages.
 
 * 🌍  I'm based in the US
-* ✉️  You can contact me at [seeleykaden9@gmail.com](mailto:seeleykaden9@gmail.com)
+* ✉️  You can contact me on discord below!
 * 🧠  I'm currently learning more python, luau, javascript.
 * 👥  I'm looking to collaborate on almost any projects.
 
