@@ -7,7 +7,7 @@ Software, Game & Web Developer.
 I've been coding for 6+ years! I first started off learning scratch, html and css. Over the years I have grown quite a big collection of coding knowledge across many different coding languages.
 
 * 🌍  I'm based in the US
-* ✉️  You can contact me on discord below!
+* ✉️  You can contact me on my discord, below.
 * 🧠  I'm currently learning more python, luau, javascript.
 * 👥  I'm looking to collaborate on almost any projects.
 
@@ -19,15 +19,11 @@ I've been coding for 6+ years! I first started off learning scratch, html and cs
 
 <p align="left"> <a href="https://www.github.com/vvivex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/https://x.com/vvivex_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://discord.com/users/imvvivex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 <a href="https://www.github.com/vvivex" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vvivex?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/https://x.com/vvivex_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://x.com/vvivex_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/vvivex?logo=github&style=for-the-badge&color=ffffff&labelColor=27272a" /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vvivex"><img src="https://github-readme-stats.vercel.app/api?username=vvivex&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vvivex's GitHub stats" /></a>
+<a href="http://www.github.com/vvivex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvivex&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/vvivex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvivex&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/vvivex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvivex&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vvivex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvivex&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
